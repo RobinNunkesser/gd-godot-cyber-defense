@@ -81,3 +81,4 @@ func get_capacity() -> int:
 
 func get_active_items() -> Array:
 	return _active
+

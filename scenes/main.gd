@@ -472,3 +472,4 @@ func _restart_game() -> void:
 	_deselect_tower()
 	_update_ui()
 	grid_visual.queue_redraw()
+

@@ -128,3 +128,4 @@ func get_world_path(from_world: Vector2, to_world: Vector2 = Vector2.INF) -> Pac
 ## Berechnet den globalen Hauptpfad von Start nach Ziel
 func get_main_path() -> PackedVector2Array:
 	return get_world_path(cell_to_world(start_cell), cell_to_world(goal_cell))
+

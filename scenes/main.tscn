@@ -4,3 +4,4 @@
 
 [node name="MainDefense" type="Node2D"]
 script = ExtResource("1_main")
+

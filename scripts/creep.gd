@@ -138,3 +138,4 @@ func _draw() -> void:
 	# Füllung (Grün -> Gelb -> Rot)
 	var fill_col = Color.GREEN.lerp(Color.RED, 1.0 - hp_ratio)
 	draw_rect(Rect2(bar_pos, Vector2(bar_w * hp_ratio, bar_h)), fill_col)
+

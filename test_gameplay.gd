@@ -267,3 +267,4 @@ func test_main_scene_game_loop() -> bool:
 
 	scene.free()
 	return true
+

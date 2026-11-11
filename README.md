@@ -58,3 +58,4 @@ Ein klassisches *Mazing Tower Defense* in Godot 4, das die informatischen Kernko
 ```bash
 godot --headless -s test_gameplay.gd
 ```
+
